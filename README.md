@@ -2,9 +2,9 @@
 
 A simple, elegant, and responsive infinite logo carousel created entirely with HTML and CSS.
 
-[🔗 Documentation](https://www.cssscript.com/infinite-logo-carousel-fade/)
+🔗 [Documentation](https://www.cssscript.com/infinite-logo-carousel-fade/)
 
-[🔗 Live Demo](https://www.cssscript.com/demo/infinite-logo-carousel-fade/)
+🔗 [Live Demo](https://www.cssscript.com/demo/infinite-logo-carousel-fade/)
 
 ## Features
 

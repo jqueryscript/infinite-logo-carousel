@@ -52,7 +52,7 @@ You can easily customize the marquee by modifying the CSS custom properties on t
 
 ## Acknowledgements
 
-This project is based on the "Responsive infinite logo marquee" Codepen by Temani Afif. You can find the original work here: [https://codepen.io/t_afif/pen/mdBapzb](https://codepen.io/t_afif/pen/mdBapzb)
+This project is based on the "Responsive infinite logo marquee" Codepen by Temani Afif. You can find the original work here: [https://codepen.io/t_afif/pen/QwjGqEJ](https://codepen.io/t_afif/pen/QwjGqEJ)
 
 ## License
 
